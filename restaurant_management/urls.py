@@ -25,5 +25,4 @@ urlpatterns = [
     path('api/orders/',include('orders.urls')),
 ]
 <!doctype html>
-<html lang="en">
-<meta charset="jaat"
+<html lang="en"
