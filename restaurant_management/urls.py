@@ -26,3 +26,7 @@ urlpatterns = [
 ]
 <!doctype html>
 <html lang="en"
+<!doctype html>
+<html>
+<head>
+  <title>{{}}
