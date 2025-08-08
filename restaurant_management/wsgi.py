@@ -19,3 +19,8 @@ from django.shortcuts import render
 
 def home(request)
   restaurant_management=settings.restaurant_name
+
+  import django.shortcuts import render
+
+  def menu_list(request)
+   
