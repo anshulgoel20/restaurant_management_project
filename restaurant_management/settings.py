@@ -130,3 +130,13 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 restaurant_management=settings.restaurant_management
 phone_number=settings.restaurant_management
 return render(request,"home.html")
+
+
+h1{
+    margin:0;
+    font-size:2.5rem
+
+}
+main{
+    padding:40px20px;
+}
