@@ -27,3 +27,8 @@ def home(request)
     margin:0;
     font-size:2.5rem;
    }
+
+   def contact_us(request):
+    contact_info={
+        "address":"123 food certificate"
+    }
