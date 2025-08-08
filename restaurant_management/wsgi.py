@@ -14,3 +14,8 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'restaurant_management.settings')
 
 application = get_wsgi_application()
+from django.conf import settings
+from django.shortcuts import render
+
+def home(request)
+  restaurant_management=settings.restaurant_name
