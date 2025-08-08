@@ -23,4 +23,7 @@ def home(request)
   import django.shortcuts import render
 
   def menu_list(request)
-   
+   header h1{
+    margin:0;
+    font-size:2.5rem;
+   }
