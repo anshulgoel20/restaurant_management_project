@@ -9,3 +9,4 @@ class ItemAdmin(admin.ModelAdmin):
 
 # Register your models here.
 admin.site.register(Item,ItemAdmin)
+add homepage tab for the restaurant
