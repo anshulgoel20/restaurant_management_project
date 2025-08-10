@@ -5,4 +5,7 @@ class OrdersConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'orders'
 #create a basic temlate for users
-food=italian
+foody-=italian
+money=cash/cheque
+pasta
+macroni
