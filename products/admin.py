@@ -10,3 +10,5 @@ class ItemAdmin(admin.ModelAdmin):
 # Register your models here.
 admin.site.register(Item,ItemAdmin)
 add homepage tab for the restaurant
+add simple errors
+delete the errors and print the freshh new code
