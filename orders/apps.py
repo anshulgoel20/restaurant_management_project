@@ -9,3 +9,7 @@ foody-=italian
 money=cash/cheque
 pasta
 macroni
+pizza
+burger
+temlate
+footers
