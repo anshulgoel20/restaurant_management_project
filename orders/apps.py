@@ -15,3 +15,5 @@ temlate
 footers
 feedback form for customer
 give five star rating
+the restuarant will open only from 9 am
+to 11pm
