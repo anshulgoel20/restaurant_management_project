@@ -32,4 +32,6 @@ urlpatterns = [
   <title>{{}}
 restaurant_management
 Import
-djangoproject is the my_app
+djangoproject is the my_ap
+bssic user profile
+creating a users account
