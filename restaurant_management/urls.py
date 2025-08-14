@@ -30,3 +30,6 @@ urlpatterns = [
 <html>
 <head>
   <title>{{}}
+restaurant_management
+Import
+djangoproject is the my_app
