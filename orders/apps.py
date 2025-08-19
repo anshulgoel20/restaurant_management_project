@@ -16,9 +16,5 @@ footers
 feedback form for customer
 give five star rating
 the restuarant will open only from 9 am
-to 11pm
-<user accout>
-<template profile>
-<bg>
-order models
-<html>
+to 
+you have to register your restuarant
