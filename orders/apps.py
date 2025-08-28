@@ -18,3 +18,4 @@ give five star rating
 the restuarant will open only from 9 am
 to 
 you have to register your restuarant
+apni ma chudwao
